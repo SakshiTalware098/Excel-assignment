@@ -14,3 +14,5 @@ Here are few screen shots provided for reference :
 ![image](https://github.com/SakshiTalware098/Excel-assignment/assets/100411378/bedfdd78-10f5-401a-9bc7-198df8171ec2)
 
 ![image](https://github.com/SakshiTalware098/Excel-assignment/assets/100411378/3f75a1f7-5aa7-41a2-9d2a-f2ae94200733)
+
+![image](https://github.com/SakshiTalware098/Excel-assignment/assets/100411378/60ea917f-4ad2-4c88-921b-497eb66262a7)
